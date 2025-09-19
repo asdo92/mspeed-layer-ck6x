@@ -11,7 +11,7 @@ For Windows, you just have to follow the following steps for installation and us
 
 * **Installation and Use:**
   
-  * Download the package [mspeed-layer-ck6x-1.1.zip](https://github.com/q3aql/mspeed-layer-ck6x/releases/download/v1.1/mspeed-layer-ck6x-1.1.zip).
+  * Download the package [mspeed-layer-ck6x-1.1.zip](https://github.com/asdo92/mspeed-layer-ck6x/releases/download/v1.1/mspeed-layer-ck6x-1.1.zip).
   * Unzip the package.
   * Enter to folder of your architecture (`build_x86` for Windows 32-bits and `build_x86_64` for Windows 64 bits).
   * Run the executable of your keyboard configuration.
@@ -27,18 +27,18 @@ List of executables:
 
 Key configurations of diferents layouts:
 
-- [mspeed-layer-ck6x-US-Symbols.md](https://github.com/q3aql/mspeed-layer-ck6x/blob/master/src/doc/mspeed-layer-ck6x-US-Symbols.md).
-- [mspeed-layer-ck6x-US.md](https://github.com/q3aql/mspeed-layer-ck6x/blob/master/src/doc/mspeed-layer-ck6x-US.md).
-- [mspeed-layer-ck6x-ES.md](https://github.com/q3aql/mspeed-layer-ck6x/blob/master/src/doc/mspeed-layer-ck6x-ES.md).
-- [mspeed-layer-ck6x-IT.md](https://github.com/q3aql/mspeed-layer-ck6x/blob/master/src/doc/mspeed-layer-ck6x-IT.md).
-- [mspeed-layer-ck6x-FR.md](https://github.com/q3aql/mspeed-layer-ck6x/blob/master/src/doc/mspeed-layer-ck6x-FR.md).
-- [mspeed-layer-ck6x-DE.md](https://github.com/q3aql/mspeed-layer-ck6x/blob/master/src/doc/mspeed-layer-ck6x-DE.md).
+- [mspeed-layer-ck6x-US-Symbols.md](https://github.com/asdo92/mspeed-layer-ck6x/blob/master/src/doc/mspeed-layer-ck6x-US-Symbols.md).
+- [mspeed-layer-ck6x-US.md](https://github.com/asdo92/mspeed-layer-ck6x/blob/master/src/doc/mspeed-layer-ck6x-US.md).
+- [mspeed-layer-ck6x-ES.md](https://github.com/asdo92/mspeed-layer-ck6x/blob/master/src/doc/mspeed-layer-ck6x-ES.md).
+- [mspeed-layer-ck6x-IT.md](https://github.com/asdo92/mspeed-layer-ck6x/blob/master/src/doc/mspeed-layer-ck6x-IT.md).
+- [mspeed-layer-ck6x-FR.md](https://github.com/asdo92/mspeed-layer-ck6x/blob/master/src/doc/mspeed-layer-ck6x-FR.md).
+- [mspeed-layer-ck6x-DE.md](https://github.com/asdo92/mspeed-layer-ck6x/blob/master/src/doc/mspeed-layer-ck6x-DE.md).
 
 ### How to install and use on Linux:
 
 * **Installation and Use:**
   
-  * Download the package [mspeed-layer-ck6x-1.1.zip](https://github.com/q3aql/mspeed-layer-ck6x/releases/download/v1.1/mspeed-layer-ck6x-1.1.zip).
+  * Download the package [mspeed-layer-ck6x-1.1.zip](https://github.com/asdo92/mspeed-layer-ck6x/releases/download/v1.1/mspeed-layer-ck6x-1.1.zip).
   * Unzip the package.
   * Open terminal within `src-linux` and apply the following commands:
     * `mkdir -p ${HOME}/.config/autokey/`
@@ -58,11 +58,11 @@ Available Layouts:
 
 Key configurations of diferents layouts:
 
-- [mspeed-layer-ck6x-US.md](https://github.com/q3aql/mspeed-layer-ck6x/blob/master/src-linux/doc/mspeed-layer-ck6x-US.md).
-- [mspeed-layer-ck6x-ES.md](https://github.com/q3aql/mspeed-layer-ck6x/blob/master/src-linux/doc/mspeed-layer-ck6x-ES.md).
-- [mspeed-layer-ck6x-IT.md](https://github.com/q3aql/mspeed-layer-ck6x/blob/master/src-linux/doc/mspeed-layer-ck6x-IT.md).
-- [mspeed-layer-ck6x-FR.md](https://github.com/q3aql/mspeed-layer-ck6x/blob/master/src-linux/doc/mspeed-layer-ck6x-FR.md).
-- [mspeed-layer-ck6x-DE.md](https://github.com/q3aql/mspeed-layer-ck6x/blob/master/src-linux/doc/mspeed-layer-ck6x-DE.md).
+- [mspeed-layer-ck6x-US.md](https://github.com/asdo92/mspeed-layer-ck6x/blob/master/src-linux/doc/mspeed-layer-ck6x-US.md).
+- [mspeed-layer-ck6x-ES.md](https://github.com/asdo92/mspeed-layer-ck6x/blob/master/src-linux/doc/mspeed-layer-ck6x-ES.md).
+- [mspeed-layer-ck6x-IT.md](https://github.com/asdo92/mspeed-layer-ck6x/blob/master/src-linux/doc/mspeed-layer-ck6x-IT.md).
+- [mspeed-layer-ck6x-FR.md](https://github.com/asdo92/mspeed-layer-ck6x/blob/master/src-linux/doc/mspeed-layer-ck6x-FR.md).
+- [mspeed-layer-ck6x-DE.md](https://github.com/asdo92/mspeed-layer-ck6x/blob/master/src-linux/doc/mspeed-layer-ck6x-DE.md).
 
 ### How to compile from source (Windows):
 
